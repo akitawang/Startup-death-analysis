@@ -1,0 +1,4 @@
+# Startup-death-analysis
+Startup death analysis/创业公司死亡大数据分析系统，本项目数据经过pandas清洗之后，保存至mongodb和mysql数据库，提供给网页利用echarts进行可视化展示。
+本项目不提供pandas清洗代码，所有的数据已经转储在了数据库文件中，导入即可使用
+欢迎提问交流，qq3057854381
